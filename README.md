@@ -17,7 +17,7 @@ A shared space for those communities makes it easier to:
  - get **domain specific** programming or design **help**
 
 
-## Discord ([invite here](https://discord.gg/DdVdR7TdRk))
+## Discord ([invite here](https://discord.gg/RqKTeA4uxW))
 
 Discord offers a few very useful tools for a multi-community environment. That's why it currently is the main channel for the community.
 
